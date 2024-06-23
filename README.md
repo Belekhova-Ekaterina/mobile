@@ -11,3 +11,5 @@
 ### 4. [Отчеты о дефектах тестировании мобильного приложения shopping-list ](https://docs.google.com/spreadsheets/d/1RoSxGmtLkREikVGpMm3skvSDPgLX9iM89-LKpkxAI_I/edit?usp=sharing)
 
 ### 5. [Отчет по результатам тестирования мобильного приложения shopping-list ](https://docs.google.com/document/d/1meKNsq3y0ZD7qXeRy0vSaZ8cTOE1lgs84BXonqdzwIM/edit?usp=sharing)
+
+### 6. [Перехват трафика и изменение запросов с помощью Charles Proxy](https://drive.google.com/drive/folders/1RK-rbKvN6uXwRgi3J_bkbJV-zC6yQ7H7)
